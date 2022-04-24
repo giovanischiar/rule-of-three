@@ -10,6 +10,8 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
+    "@react-native-clipboard/clipboard": "^1.8.5",
+    "@react-native-picker/picker": "^2.4.1",
     "react": "17.0.2",
     "react-native": "0.68.0"
   },
